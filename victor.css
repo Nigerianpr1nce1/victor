@@ -1,0 +1,132 @@
+h1{
+    text-align: center;
+    color: green;
+    font-size: 50px;
+}
+#box{
+    margin: auto;
+    width: 400px;
+    border: rgb(210, 202, 202) 1px solid;
+    padding: auto;
+    height: 300px;
+    border-radius: 20px
+
+    ;
+}
+#email{
+    margin: 20px;
+    
+}
+#email>input{
+    padding-left: 3%;
+}
+#a{
+    margin: auto ;
+    margin-top: 15%;
+    width: 90%;
+    margin-bottom: 10px;
+    display: block;
+    height: 40px;
+    border-radius: 8px;
+    border: rgb(210, 202, 202) 1px solid;
+
+}
+#b{
+    margin: auto;
+    margin-top: 8%;
+    width: 90%;
+    margin-bottom: 10px;
+    display: block;
+    height: 30px;
+    height: 40px;
+    border-radius: 8px;
+    border: rgb(210, 202, 202) 1px solid;
+
+}
+#log{
+    width: 40%;
+    margin: auto;
+    display: block;
+    height: 30px;
+    margin-top: 8%;
+    background-color:aquamarine;
+    color: white;
+    border-radius: 20px;
+    
+}
+.sign{
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+    width: 17%;
+    height: 30px;
+    background-color:rgb(61, 61, 183);
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    
+}
+#inform{
+    width: 400px;
+    margin: auto;
+    border: rgb(188, 183, 183) 1px solid;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.form{
+    display: block;
+    width: 70%;
+    margin: auto ;
+    margin-top: 15px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid rgb(201, 198, 198);
+}
+.form1{
+    width: 55%;
+    margin-top: 15px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid rgb(201, 198, 198);
+}
+.shsh{
+    margin: auto;
+    padding-left: 15%;
+
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI';
+}
+.check{
+    padding-top: 20px;
+    text-align: center;
+}
+#top{
+    text-align: center;
+    font-size: larger;
+}
+.next{
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+    width: 30%;
+    height: 30px;
+    background-color:rgb(61, 61, 183);
+    color: white;
+    border-radius: 20px;
+}
+.next:visited{
+    color: white;
+}
+.end{
+    text-align: center;
+    padding-top: 10%;
+}
+#last{
+    width: 80%;
+    margin: auto;
+    background-color: antiquewhite;
+}
